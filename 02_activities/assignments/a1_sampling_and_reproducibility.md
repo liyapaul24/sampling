@@ -61,10 +61,12 @@ f) Relation to the Blog Post: In the blog post, the observed proportions of infe
 In the original blog post, 2 graphs are displaying. Graph1 shows the proportion of infection resulting from weddings and graph 2 shows Distribution of true vs observed proportion of cases from wedding. After running the Python script file called whitby_covid_tracing.py as is I got a graph which shows both infections from wedding(blue) and traced to weddings(red) in single graph, which is attached as "Figure1_AS IS code result". The code result is producing graph that is similar but it shows larger frequency count compared to blog graphs.
 
 >Modify the number of repetitions in the simulation to 1000 (from the original 50000). Run the script multiple times and observe the outputted graphs. Comment on the reproducibility of the results.
+
 When I run the modified script multiple times, I observed that the shape of histogram is getting changed. This is due to the the smaller number of trials. 
 With fewer repetitions (1000 instead of 50,000), the variability in the results might increase. This could lead to more fluctuation in the histograms from run to run, as the sample size is smaller.
 
 >Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
+
 To make the same output when running multiple times, I will modify the code by setting a fixed random seed. I have added the code np.random.seed(42) at the beginning to ensures that the random processes are reproducible. When the seed is fixed, the sequence of random numbers generated will be the same each time the script is run. 
 ```
 
