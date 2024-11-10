@@ -16,30 +16,42 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: 1
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of the survey is to conduct an analysis of the turnover rate across departments specifically in entry- and lower-level employees at the company. The survey will pave way for identifying the gaps that the organization needs to bridge to improve job satisfaction and reduce turnover.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: The target population is entry- and lower-level employees within the company.
+
+Sampling Frame: The sampling frame may include records of all current entry- and lower-level employees in the company and also the contact information for recently exited employees. 
+
+Sampling Units: Individual employees within entry- and lower-level positions.
+
+Sampling Strategy: Stratified random sampling would be better, dividing the sampling frame by department or job role to ensure that responses reflect experiences across different parts of the company. 
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How long have you worked at our company?
+(Less than 6 months , 6-12 months, 1-2 years, More than 2 years)
+2. How satisfied are you with your role at the company?
+(Very satisfied, Somewhat satisfied, Neutral, Somewhat dissatisfied, Very dissatisfied)
+3. What are the primary reasons you might consider leaving the company? (Select all that apply)
+(Work-life balance, Salary and benefits, Opportunities for career growth,Relationship with management, Others)
+4. How often do you feel supported by your direct manager?
+(Always, Often, Sometimes, Rarely, Never)
+5. How satisfied are you with opportunities for career advancement within the company?
+(Very satisfied, Somewhat satisfied, Neutral, Somewhat dissatisfied, Very dissatisfied)
+6. Have you considered leaving the company within the next year?
+(Yes, No, Maybe)
+7. What would increase your satisfaction with your role? 
+(Better work-life balance, Increased compensation, More career advancement opportunities, Better management support, Improved company culture, Additional training and development programs, Other (please specify))
+8. Please share any additional comments or suggestions you have for improving the workplace.
+
 ```
 
 ## Rubric
