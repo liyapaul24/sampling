@@ -29,7 +29,9 @@ Target Population: The target population is entry- and lower-level employees wit
 
 Sampling Frame: The sampling frame may include records of all current entry- and lower-level employees in the company and also the contact information for recently exited employees. 
 
-Sampling Units: Individual employees within entry- and lower-level positions.
+Sampling Units: Individual employees within entry- and lower-level positions who will be chosen from the overall population to participate in the survey.
+
+Observational Units: observational units are the individual employees in entry- and lower-level positions whose experiences, opinions, and behaviors are being measured and analyzed.
 
 Sampling Strategy: Stratified random sampling would be better, dividing the sampling frame by department or job role to ensure that responses reflect experiences across different parts of the company. 
 ```
