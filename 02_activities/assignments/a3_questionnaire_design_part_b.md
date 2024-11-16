@@ -4,19 +4,46 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+  The quality of the sample depends on how well the sampling strategy was designed and implemented. There are some kind of strengths and some limitations as well.
+  Some limitation include Non-response bias(Employees who exited under negative circumstances may choose not to respond) and Sample frame coverage (If the list of employees is incomplete or not updated). By addressing these limitations, the sample quality can be enhanced.
+
+  The sample is expected to be the representative of target population due to the use of stratified random sampling, which ensure various perspectives by including employees from different departments and roles. And also, incorporating both current and recently exited employees will give a broader understanding of turnover factors.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+  Yes. Some improvements could enhance the quality of the survey.
+
+1. How long have you worked at our company?
+Change: Added a "Prefer not to say" option to respect privacy and enhance ethical considerations.
+
+2. How satisfied are you with your role at the company?
+Change: Added a brief definition of "satisfied" to reduce ambiguity.
+
+3. What are the primary reasons you might consider leaving the company?
+Change: Expanded options to include “Workplace safety” and “Discrimination/harassment” for better coverage of potential issues.
+
+4. How often do you feel supported by your direct manager?
+Change: Adjusted to “How often do you feel supported by your manager or immediate supervisor?” for clarity.
+
+5. How satisfied are you with opportunities for career advancement within the company?
+No changes.
+
+6. Have you considered leaving the company within the next year?
+Change: Added a follow-up question: “If yes, what factors are influencing your decision?” to get indepth insights.
+
+7. What would increase your satisfaction with your role?
+Change: Added “Flexible work arrangements” to address modern workplace trends.
+
+8. Please share any additional comments or suggestions you have for improving the workplace.
+Change: Added a note emphasizing confidentiality to build trust and encourage honest feedback.
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+    No, the purpose of the survey could not be completely fulfilled through an observational study. Observational studies can identify some patterns like attendance or workplace interactions, but they cant capture employees personal reason for dissatisfaction or turnover. The survey is really required for directly gathering actionable feedback, which includes identifying issues with management or career growth opportunities, which are not observable. Observational studies can complement the survey by providing context but cant replace the direct insights needed.
     ```
 
 ## Why am I doing this assignment?
