@@ -12,32 +12,41 @@
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
+    ```
     Yes. Some improvements could enhance the quality of the survey.
 
     1. How long have you worked at our company?
+
     Change: Added a "Prefer not to say" option to respect privacy and enhance ethical considerations.
 
     2. How satisfied are you with your role at the company?
+
     Change: Added a brief definition of "satisfied" to reduce ambiguity.
 
     3. What are the primary reasons you might consider leaving the company?
+
     Change: Expanded options to include “Workplace safety” and “Discrimination/harassment” for better coverage of potential issues.
 
     4. How often do you feel supported by your direct manager?
+
     Change: Adjusted to “How often do you feel supported by your manager or immediate supervisor?” for clarity.
 
     5. How satisfied are you with opportunities for career advancement within the company?
+
     No changes.
 
     6. Have you considered leaving the company within the next year?
+
     Change: Added a follow-up question: “If yes, what factors are influencing your decision?” to get indepth insights.
 
     7. What would increase your satisfaction with your role?
+
     Change: Added “Flexible work arrangements” to address modern workplace trends.
 
     8. Please share any additional comments or suggestions you have for improving the workplace.
+    
     Change: Added a note emphasizing confidentiality to build trust and encourage honest feedback.
-
+    ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
